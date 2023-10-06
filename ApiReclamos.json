@@ -1,0 +1,81 @@
+{
+  "reclamos": [
+    {
+      "IDRECLAMO": 1,
+      "TITULO": "Problema con la inscripción",
+      "TIPORECLAMO": "Inscripción",
+      "DETALLE": "No puedo inscribirme en el curso de matemáticas.",
+      "FECHA_HORA": "2023-10-06T10:30:00",
+      "SEMESTRE": 7,
+      "ESTADORECLAMO": "Pendiente",
+      "IDESTUDIANTE": 101,
+      "EVENTO": "Examen Matematicas"
+    },
+    {
+      "IDRECLAMO": 2,
+      "TITULO": "Créditos Vme CUTI",
+      "TIPORECLAMO": "Finanzas",
+      "DETALLE": "No obtuve los créditos de mi participación en CUTI.",
+      "FECHA_HORA": "2023-10-05T15:45:00",
+      "SEMESTRE": 2,
+      "ESTADORECLAMO": "En proceso",
+      "IDESTUDIANTE": 102,
+      "EVENTO": "CUTI Bussines Forum 2030"
+    },
+    {
+      "IDRECLAMO": 3,
+      "TITULO": "Horario de clases incorrecto",
+      "TIPORECLAMO": "Académico",
+      "DETALLE": "Mi horario de clases tiene errores, clases superpuestas.",
+      "FECHA_HORA": "2023-10-04T14:20:00",
+      "SEMESTRE": 8,
+      "ESTADORECLAMO": "Resuelto",
+      "IDESTUDIANTE": 103,
+      "EVENTO": "Examen Final Desarrollo Movil"
+    },
+    {
+      "IDRECLAMO": 4,
+      "TITULO": "Créditos no ingresados",
+      "TIPORECLAMO": "Servicios",
+      "DETALLE": "No recibí los créditos de mi participación en la actividad APE.",
+      "FECHA_HORA": "2023-10-03T11:10:00",
+      "SEMESTRE": 3,
+      "ESTADORECLAMO": "Pendiente",
+      "IDESTUDIANTE": 104,
+      "EVENTO": "Actividad APE 2025"
+    },
+    {
+      "IDRECLAMO": 5,
+      "TITULO": "Examen aplazado sin previo aviso",
+      "TIPORECLAMO": "Académico",
+      "DETALLE": "El examen de química fue aplazado sin previo aviso.",
+      "FECHA_HORA": "2023-10-02T09:55:00",
+      "SEMESTRE": 1,
+      "ESTADORECLAMO": "En proceso",
+      "IDESTUDIANTE": 105,
+      "EVENTO": "Examen Final Quimica"
+    },
+    {
+      "IDRECLAMO": 6,
+      "TITULO": "Inscripción en actividad APE",
+      "TIPORECLAMO": "Inscripción",
+      "DETALLE": "Quiero inscribirme en la actividad APE de este semestre.",
+      "FECHA_HORA": "2023-10-12T17:45:00",
+      "SEMESTRE": 4,
+      "ESTADORECLAMO": "Pendiente",
+      "IDESTUDIANTE": 108,
+      "EVENTO": "Actividad APE"
+    },
+    {
+      "IDRECLAMO": 7,
+      "TITULO": "Solicitud de revisión de prueba final",
+      "TIPORECLAMO": "Prueba Final",
+      "DETALLE": "Creo que hubo un error en la corrección de mi prueba final de química.",
+      "FECHA_HORA": "2023-10-09T11:30:00",
+      "SEMESTRE": 5,
+      "ESTADORECLAMO": "Pendiente",
+      "IDESTUDIANTE": 105,
+      "EVENTO": "Prueba Final"
+    }
+  ]
+}
